@@ -1,9 +1,9 @@
 {
     "whitelist": {
-        "pelebey1": {
+        "21k_65I8": {
             "userid": "576643399",
-            "username": "pelebey1",
-            "displayname": "June",
+            "username": "21k_65I8",
+            "displayname": "21k_65I8",
             "accountage": "2496"
         },
         "itthe34": {
