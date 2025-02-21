@@ -1,10 +1,10 @@
 {
     "whitelist": {
         "21k_65I8": {
-            "userid": "576643399",
+            "userid": "8030907058",
             "username": "21k_65I8",
             "displayname": "21k_65I8",
-            "accountage": "2496"
+            "accountage": "4"
         },
         "itthe34": {
             "userid": "2211523758",
